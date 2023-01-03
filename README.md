@@ -3,11 +3,11 @@
 
 ## chat-app
 
-####yarn i 
-####yarn start
+#### yarn i 
+#### yarn start
 
 
 ## server
 
-####yarn i
-####yarn start
+#### yarn i
+#### yarn start
