@@ -1,13 +1,13 @@
 # chat-app
 基于react+node+socket的聊天室系统
 
-### chat-app
+## chat-app
 
-yarn i 
-yarn start
+####yarn i 
+####yarn start
 
 
-### server
+## server
 
-yarn i
-yarn start
+####yarn i
+####yarn start
